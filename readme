@@ -1,0 +1,13 @@
+To run the app
+
+locally:
+change to javascript-essential in the Desktop
+and then type:
+node server.js
+
+and then type localhost:3000 in a new web tab.
+
+Cloud9:
+change to server.js
+then Run with Node.js(default)
+click on the output link and start chatting!
